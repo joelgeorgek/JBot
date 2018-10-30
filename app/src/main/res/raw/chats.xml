@@ -1,0 +1,14 @@
+<chats>
+    <chat intent="all">
+        <Q>hi</Q>
+        <Q>hello</Q>
+        <Q>hey</Q>
+        <R>Hi, how can I help you.</R>
+        <R>Hello, how may I help you.</R>
+        <R>Hola amigo, let me help you.</R>
+    </chat>
+    <chat>
+        <Q></Q>
+        <R></R>
+    </chat>
+</chats>

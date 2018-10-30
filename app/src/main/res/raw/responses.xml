@@ -1,0 +1,1059 @@
+﻿
+<chattext>
+
+<Text>
+		<Q>about</Q>
+		<Q>about school</Q>
+		<Q>information</Q>
+		<Q>school information</Q>
+		<Q>bhavans</Q>
+		<Q>about bhavans</Q>
+		<Q>what is bhavans</Q>
+		<A>Bhavan’s Public School is managed by the Al Misnad Education Centre. It is a part of Bharatiya Vidya Bhavan, a premier educational institution in India.
+Bharatiya Vidya Bhavan was founded in 1938 by Dr. KM Munshi.Bharatiya Vidya Bhavan is running over 400 schools in India and 10 International Schools.The Bhavan’s Public School, is a private English medium school with CBSE curriculum.
+Quality education is the hallmark of the school.The students are nurtured with care under proficiently trained and experienced faculty. School aims for higher standards of academic excellence.
+ </A>	
+	</Text>
+	<Text>
+	<Q>day</Q>
+	<A>Information about what day do you require - sports day, annual day, talents day.</A>
+</Text>
+<Text>
+	<Q></Q>	
+		<A>Hi,How are you?</A>
+		<A>Hello,How are you?</A>
+		<A>Hey,how's it going ?</A>
+		<A>Hi,how can I help you?</A>
+		<A>Hello,how may I help you?</A>
+	</Text>
+	
+	<Text>
+		<Q>???????????????????????????????????????????</Q>
+		<A>What do you mean by '?'</A>
+	</Text>
+	<Text>
+		<Q>JBot</Q>
+		<A>Yes,how can I help you?</A>
+	</Text>
+
+<Text>
+	<Q>okkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk</Q>
+	<Q>okay</Q>
+	<Q>ok JBot</Q>
+	<Q>okay JBot</Q>
+	<Q>oh okay</Q>
+	<Q>ohh okay</Q>
+	<Q>ohhh okay</Q>
+	<Q>ohhhh okay</Q>
+	<Q>ohh nice</Q>
+	<Q>oh nice</Q>
+	<Q>ohh great</Q>
+	<Q>oh great</Q>
+	<Q>hm okay</Q>
+	<Q>hmm okay</Q>
+	<Q>hmmm okay</Q>
+	<Q>hmmmm okay</Q>
+	<Q>hmmmmm okay</Q>
+	<Q>hmmmmmm okay</Q>
+	<Q>hmmmmmmm okay</Q>
+	<Q>hmmmmmmmm okay</Q>
+	<A>Right, then.</A>
+	</Text>
+	<Text>
+		<Q>what can i ask you</Q>
+		<Q>what should i ask you</Q>
+		<Q>what to ask you</Q>
+		<Q>what can i ask u</Q>
+		<Q>what should i ask u</Q>
+		<Q>what to ask u</Q>
+		<A>You can ask me anything related to Bhavans Public School.</A>
+	</Text>
+	<Text>
+		<Q>can i get you help jbot</Q>
+		<Q>can u help me jbot</Q>
+		<Q>can you help me jbot</Q>
+		<Q>i need your help jbot</Q>
+		<A>Yes, how may I help you?</A>
+		<A>Yes, how can I help you?</A>
+	</Text>
+	
+	<Text intent="Greeting">
+		<Q>ok Hi dude</Q>
+		<Q>ok Hi bro</Q>
+		<Q>ok Hello bro</Q>
+		<Q>ok Hey bro</Q>
+		<Q>ok ohh Hey JBot</Q>
+		<Q>ok Hi man</Q>
+		<Q>ok Hello dude</Q>
+		<Q>ok Hello man</Q>
+		<Q>ok GM man</Q>
+		<Q>ok GM dude</Q>
+		<Q>ok hey good morning man</Q>
+		<Q>ok hey good morning dude</Q>
+		<Q>ok hey good after noon man</Q>
+		<Q>ok hey good after noon man</Q>
+		<Q>ok hey good evening man</Q>
+		<Q>ok hey good evening man</Q>
+		<Q>ok Hey</Q>
+		<Q>ok Hey dude</Q>
+		<Q>ok Hey man</Q>
+		<Q>ok Hi There</Q>
+		<Q>ok hi</Q>
+		<Q>ok hello</Q>
+		<Q>ok gm</Q>
+		<Q>ok hey</Q>
+		<Q>ok hi there</Q>
+		<Q>ok hi JBot</Q>
+		<Q>ok ohh hi JBot</Q>
+		<Q>ok hey there</Q>
+		<Q>ok Hey There</Q>
+		<Q>ok ohh Hello JBot</Q>
+		
+		<A>Glad to talk to you. How can I help you?</A>
+		<A>Hi, how may I help you?</A>
+		<A>Hello,what can I help you with?</A>
+		<A>Hey,what info do you want me to find for you?</A>
+		<A>Hi,how can I help you?</A>
+		<A>Hello,how may I help you?</A>
+	</Text>
+	<Text>
+		<Q>JBot whats your gender</Q>
+		<Q>JBot what is your gender</Q>
+		<Q>JBot Are you a male or a female</Q>
+		<Q>JBot r u a male or a female</Q>
+		<Q>JBot r you a male or a female</Q>
+		<Q>JBot are u a male or a female</Q>
+		<Q>JBot Are you a female or a male</Q>
+		<Q>JBot r u a female or a male</Q>
+		<Q>JBot r you a female or a male</Q>
+		<Q>JBot are u a female or a male</Q>
+		<Q>JBot Are you a boy or a girl</Q>
+		<Q>JBot r u a boy or a girl</Q>
+		<Q>JBot r you a boy or a girl</Q>
+		<Q>JBot are u a boy or a girl</Q>
+		<Q>JBot Are you a girl or a boy</Q>
+		<Q>JBot r u a girl or a boy</Q>
+		<Q>JBot r you a girl or a boy</Q>
+		<Q>JBot are u a girl or a boy</Q>
+		<A>I'm a female. But it doesn't matter. Please ask questions related to Bhavans Public School.</A>
+	</Text>
+	
+	<Text>
+	<Q>what about u?</Q>
+	<Q>what about you?</Q>
+	<Q>what bout u?</Q>
+	<Q>what bout you?</Q>
+	<Q>wat about u?</Q>
+	<Q>wat about you?</Q>
+	<Q>wat bout u?</Q>
+	<Q>wat bout you?</Q>
+	<Q>how's it going?</Q>
+	<Q>how's it going?</Q>
+	<Q>hows it going?</Q>
+	<Q>how are you doing?</Q>
+	<Q>wassup?</Q>
+	<Q>hi,how r u?</Q>
+	<Q>hi,how are u?</Q>
+	<Q>hi,how r you?</Q>
+	<Q>hi,how are you?</Q>
+	<Q>hello,how r u?</Q>
+	<Q>hello,how are u?</Q>
+	<Q>hello,how r you?</Q>
+	<Q>hello,how are you?</Q>
+	<Q>hey,how r u?</Q>
+	<Q>hey,how are u?</Q>
+	<Q>hey,how r you?</Q>
+	<Q>hey,how are you?</Q>
+	<Q>man wassup?</Q>
+	<A>I am Fine, Thank You.</A>
+	<A>I think am doing good, what about you?</A>
+	</Text>
+	<Text>
+		<Q>what are the academics</Q>
+		<Q>what is the academics</Q>
+		<Q>bhavans academics</Q>
+		<Q>academics of bhavans</Q>
+        <A>Bhavans Public School provides classes for - &lt;br&gt;
+&amp;ensp&amp;ensp&amp;ensp&amp;ensp - LKG and UKG &lt;br&gt;
+&amp;ensp&amp;ensp&amp;ensp&amp;ensp - Primary – STD I – V &lt;br&gt;
+&amp;ensp&amp;ensp&amp;ensp&amp;ensp - Middle School – STD VI – VIII &lt;br&gt;
+&amp;ensp&amp;ensp&amp;ensp&amp;ensp - Secondary School – STD IX – X &lt;br&gt;
+&amp;ensp&amp;ensp&amp;ensp&amp;ensp - Senior Secondary School – STD XI – XII</A>
+	</Text>
+	
+	
+	<Text>
+		<Q>fees</Q>
+		<Q>ok JBot i need to know the fee structure?</Q>
+		<Q>ok JBot can i know the fee structure?</Q>
+		<Q>ok i need to know the fee structure?</Q>
+		<Q>ok can i know the fee structure?</Q>
+		<Q>ok can i get the fees structures?</Q>
+		<Q>ok can i get the fee structures?</Q>
+		<Q>ok can i get the fees structure?</Q>
+		<Q>ok can i get the fee structure?</Q>
+		<Q>ok can i get the fees?</Q>
+		<Q>ok can i get the fee?</Q>
+		<Q>fees</Q>
+		<Q>ok fees of bhavans</Q>
+		<Q>ok fee of bhavans</Q>
+		<Q>ok i want to know the fees</Q>
+		<Q>feez</Q>
+		<Q>ok What is the fees</Q>
+		<Q>ok i need to know the fee</Q>
+		<Q>ok i need to know the fee structure</Q>
+		<Q>ok whats the fee</Q>
+		<Q>ok can i know the fee structure</Q>
+		<Q>ok whats the fee structure</Q>
+		<Q>ok fee structure</Q>
+		<A>We have three campuses, one in Wakra, one in Matar Qadeem and one in Midmac.The Fee Structure of each campus differ from one another.
+Please let us know which campus you are looking for.
+		</A>
+	</Text>
+
+	<Text>
+
+		<Q>ok wakra</Q>
+		<Q>ok i need wakrahs</Q>
+		<Q>ok i am looking for wakrahs fees structure</Q>
+		<Q>ok i am looking for wakrahs fee structure</Q>
+		<Q>ok i am looking for wakras fees structure</Q>
+		<Q>ok i am looking for wakras fee structure</Q>
+		<Q>ok i am looking for wakra fees structure</Q>
+		<Q>ok i am looking for wakra fee structure</Q>
+		<Q>ok i am looking for wakrah fees structure</Q>
+		<Q>ok i am looking for wakrah fee structure</Q>
+		<Q>ok i need to know wakrahs</Q>
+		<Q>ok i need to know wakras</Q>
+		<Q>ok i need wakras</Q>
+		<Q>ok wakrah</Q>
+		<A>Annual Fee -&lt;br&gt;                                  
+&amp;emsp&amp;emsp KG 1 and KG 2   =>   QAR 9114,&lt;br&gt; 
+&amp;emsp&amp;emsp Std. I – IV     =>   QAR 10137,&lt;br&gt;
+&amp;emsp&amp;emsp Std. V – VI     =>   QAR 11130,&lt;br&gt;
+&amp;emsp&amp;emsp Std. VII – IX   =>   QAR 11199,&lt;br&gt;
+&amp;emsp&amp;emsp Std. X – XII    =>   QAR 12201,&lt;br&gt;
+
+To know the split-up of the fee visit - 
+
+		</A>
+	</Text>
+
+	<Text>
+		<Q>ok matar qadeem</Q>
+		<Q>ok i am looking for matar qadeems fees structure</Q>
+		<Q>ok i am looking for matar qadeems fee structure</Q>
+		<Q>ok i am looking for matar qadeem fees structure</Q>
+		<Q>ok i am looking for matar qadeem fee structure</Q>
+		<Q>ok i need matar qadeems</Q>
+		<Q>ok i need to know matar qadeems</Q>
+		<Q>ok matar</Q>
+		<Q>ok qadeem</Q>
+		<A>Annual Fee -&lt;br&gt; 
+&amp;emsp&amp;emsp	KG 1 and KG 2 => QAR 8895&lt;br&gt; 
+&amp;emsp&amp;emsp	Std. I – IV   => QAR 9879&lt;br&gt; 
+&amp;emsp&amp;emsp	Std. V – VI   => QAR 10863&lt;br&gt; 
+
+To know the split-up of the fee visit - 
+		</A>
+	</Text>
+
+	<Text>
+		<Q>ok midmac</Q>
+		<Q>ok i am looking for midmacs fees structure</Q>
+		<Q>ok i am looking for midmacs fee structure</Q>
+		<Q>ok i am looking for midmac fees structure</Q>
+		<Q>ok i am looking for midmac qadeem fee structure</Q>
+		<Q>ok i need midmacs</Q>
+		<Q>ok i need to know midmacs</Q>
+		<Q>ok mid-mac</Q>
+		<A>Annual Fee -&lt;br&gt; 
+&amp;emsp&amp;emsp	KG 1 and KG 2 => QAR 8895&lt;br&gt; 
+&amp;emsp&amp;emsp	Std. I – IV   => QAR 9879&lt;br&gt; 
+&amp;emsp&amp;emsp	Std. V – VI   => QAR 10863&lt;br&gt; 
+
+To know the split-up of the fee visit -	</A>
+	</Text>
+	<Text>
+		<Q>what is your name?</Q>
+		<Q>what is your name</Q>
+		<Q>your name</Q>
+		<Q>your name please</Q>
+		<Q>your name pls</Q>
+		<Q>whats your good name</Q>
+		<Q>whats your name</Q>>
+		<A>My Name is JBot</A>
+	</Text>
+	
+	<Text>
+		<Q>ok thnks JBot</Q>
+		<Q>ok thanks JBot</Q>
+		<Q>ok thank you JBot</Q>
+		<Q>ok thank you so much JBot</Q>
+		<Q>ok thnks for the help JBot</Q>
+		<Q>ok thanks for the help JBot</Q>
+		<Q>ok thank you for the help JBot</Q>
+		<Q>ok thank you so much for the help JBot</Q>
+		<Q>ok thnks for your help JBot</Q>
+		<Q>ok thanks for your help JBot</Q>
+		<Q>ok thank you for your help JBot</Q>
+		<Q>ok thank you so much for your help JBot</Q>
+		<A>No problem.</A>
+	</Text>
+	<Text>
+	<Q>ok nice JBot</Q>
+	<Q>ok great JBot</Q>
+	<A>Hey thanks.</A>
+	</Text>
+	<Text>
+		<Q>fine</Q>
+		<Q>fine,thanks</Q>
+		<Q>fine thanks</Q>
+		<Q>fine,thank you</Q>
+		<Q>fine thank you</Q>
+		<Q>good</Q>
+		<Q>i am doing good thank you</Q>
+		<Q>i am doing good thank u</Q>
+		<Q>i am fine</Q>
+		<A>that's good, now how can I help you ?</A>
+	</Text>
+	<Text>
+	    <Q>ok JBot i need to know the transportation fees?</Q>
+		<Q>ok JBot can i know the transportation fees?</Q>
+		 <Q>ok i need to know the transportation fees?</Q>
+		<Q>ok can i know the transportation fees?</Q>
+	    <Q>ok whats the transportation fees</Q>
+		<Q>transportation</Q>
+		<Q>transport</Q>
+		<Q>ok transport fees</Q>
+		<Q>ok what is the transportation fees</Q>
+		<A>The transportation fee is QAR 200 and 250 depending upon the area. (Please contact transport dept. for more details)</A>
+	</Text>
+	<Text>
+	    <Q>ok JBot i need to know the curriculums?</Q>
+		<Q>ok JBot can i know the curriculums?</Q>
+		 <Q>ok JBot i need to know the syllabus?</Q>
+		<Q>ok JBot can i know the syllabus?</Q>
+		<Q>what curriculum do you follow</Q>
+		<Q>curriculums</Q>
+		<Q>cirriculums</Q>
+		<Q>curriculams</Q>
+		<Q>carriculums</Q>
+		<Q>cariculums</Q>
+		<Q>curiculums</Q>
+		<Q>carriculams</Q>
+		<Q>cariculams</Q>
+		<Q>curiculams</Q>
+		<Q>syllabus</Q>
+		<Q>what syllabus do you follow</Q>
+		<Q>what curriculum</Q>
+		<Q>which syllabus do you follow</Q>
+		<A>We Follow CBSE curriculum/syllabus</A>
+		
+	</Text>
+	<Text>
+		<Q>sports</Q>
+		<Q>bhavans sports</Q>
+		<Q>sports in bhavans</Q>
+		<Q>physical education departments</Q>
+		<Q>physical education dept.</Q>
+		<A>The Physical Education Department of Bhavan’s Public School aims at the holistic development of the child. The great end of this education is to discipline rather than to furnish the mind; to train it to the use of its own powers, rather than fill it with the accumulations of others. Sports Day and several athletic related activities are conducted every year to emphasize on the importance of sportsman spirit. More over after school hour coaching are conducted. The students participate in various tournaments and sports competitions and bag glories to the school.</A>
+	</Text>
+	<Text>
+		<Q>extra curricular activities</Q>
+		<Q>extra cirricular activities</Q>
+		<Q>extra cirriculer activities</Q>
+		<Q>extra curriculer activities</Q>
+	    <Q>extra curricular activity</Q>
+		<Q>extra cirricular activity</Q>
+		<Q>extra cirriculer activity</Q>
+		<Q>extra curriculer activity</Q>
+		<Q>extra carricular activities</Q>
+		<Q>extra caricular activities</Q>
+		<Q>extra curicular activities</Q>
+		<Q>extra carricular activity</Q>
+		<Q>extra caricular activity</Q>
+		<Q>extra curicular activity</Q>
+		<Q>co carricular activities</Q>
+		<Q>co caricular activities</Q>
+		<Q>co curicular activities</Q>
+		<Q>co carricular activity</Q>
+		<Q>co caricular activity</Q>
+		<Q>extra curicular activity</Q>
+		<Q>co curricular activities</Q>
+		<Q>co cirricular activities</Q>
+		<Q>co cirriculer activities</Q>
+		<Q>co curriculer activities</Q>
+	    <Q>co curricular activity</Q>
+		<Q>co cirricular activity</Q>
+		<Q>co cirriculer activity</Q>
+		<Q>co curriculer activity</Q>
+		<A> The school offers a wide spectrum of co-curricular activities aimed at developing the talents and creativity of the students and to support classroom activities.&lt;br&gt;
+&amp;emsp      The co-curricular activities offered are as follows -&lt;br&gt;
+&amp;emsp&amp;emsp         - Art and Craft&lt;br&gt;
+&amp;emsp&amp;emsp         - Dance&lt;br&gt;
+&amp;emsp&amp;emsp         - Music&lt;br&gt;
+&amp;emsp&amp;emsp         - Athletics and Games&lt;br&gt;
+&amp;emsp&amp;emsp         - Computer Studies&lt;br&gt;
+&amp;emsp&amp;emsp         - Literary Activities</A>
+	</Text>
+	<Text>
+		<Q>bhavans clubs</Q>
+		<Q>clubs in bhavans</Q>
+		<Q>club in bhavans</Q>
+		<Q>eco clubs</Q>
+		<Q>science clubs</Q>
+		<A>I am sorry,I don't have any information regarding clubs currently.</A>
+	</Text>
+	<Text>
+		<Q>ok i need to know When is the Annual Day</Q>
+		<Q>ok i need to know When is Annual Day</Q>
+		<Q>ok i need to know When is Annual Day 2017</Q>
+		<Q>i need to know When is the Annual Day 2017</Q>
+		<A>It will be in the Month of November.
+For more information visit our website - http://bhavansqatar.org/
+		</A>
+	</Text>
+	<Text>
+		<Q>When is the Scientia?</Q>
+		<Q>When is Scientia?</Q>
+		<Q>When is Science exhibition??</Q>
+		<Q>When is exhibition?</Q>
+		<Q>When is the Science exhibition??</Q>
+		<Q>When is the exhibition?</Q>
+		<A>It is being held now.</A>
+	</Text>
+	<Text>
+	    <Q>ok i need to know When is the Sports Day</Q>
+	    <Q>ok i need to know When is Sports Day</Q>
+	    <Q>ok i need to know When is Sports Day 2017</Q>
+		<Q>ok i need to know When is the sports Day 2017</Q>
+		<Q>when is the sports day</Q>
+		<A>Sports day for the current year has already been conducted.
+For more information visit our website - http://bhavansqatar.org/
+		</A>
+	</Text>
+	<Text>	
+	    <Q>ok i need to know When is the talents Day</Q>
+	    <Q>ok i need to know When is talents Day</Q>
+	    <Q>ok i need to know When is talents Day 2017</Q>
+		<Q>ok i need to know When is the talents Day 2017</Q>
+		<Q>when is the talents day</Q>
+		<A>Talents day for the current year has been aldready conducted in the month of May.
+For more information visit our website - http://bhavansqatar.org/
+		</A>
+	</Text>	
+	<Text>
+		<Q>when is the ptm</Q>
+		<Q>ok i need to know When is the ptm</Q>
+		<Q>ok i need to know when is the parent teacher meetings</Q>>
+		<Q>when is ptm</Q>
+		<Q>ok i need to know When is ptm</Q>
+		<Q>ok i need to know when is parent teacher meetings</Q>>
+		<A>PTM's are planned after each exams and are communicated via circulars shared with students.</A>
+	</Text>	
+	<Text>
+		<Q>when is the exams dates</Q>
+		<Q>when is exams dates</Q>
+		<Q>when is premidterm examination</Q>
+		<Q>when is postmidterm examination</Q>
+		<Q>when is midterm examinatin</Q>
+		<Q>when is annual examination</Q>
+		<Q>when is final examination</Q>
+		<Q>when is premidterm examination dates</Q>
+		<Q>when is postmidterm examination dates</Q>
+		<Q>when is midterm examination dates</Q>
+		<Q>when is annual examination dates</Q>
+		<Q>when is final examination dates</Q>
+		<Q>when is premidterm exam dates</Q>
+		<Q>when is postmidterm exam dates</Q>
+		<Q>when is midterm exam dates</Q>
+		<Q>when is annual exam dates</Q>
+		<Q>when is final exam dates</Q>
+		<Q>when is the premidterm examination</Q>
+		<Q>when is the postmidterm examination</Q>
+		<Q>when is the midterm examinatin</Q>
+		<Q>when is the annual examination</Q>
+		<Q>when is the final examination</Q>
+		<Q>when is the premidterm examination dates</Q>
+		<Q>when is the postmidterm examination dates</Q>
+		<Q>when is the midterm examination dates</Q>
+		<Q>when is the annual examination dates</Q>
+		<Q>when is the final examination dates</Q>
+		<Q>when is the premidterm exam dates</Q>
+		<Q>when is the postmidterm exam dates</Q>
+		<Q>when is the midterm exam dates</Q>
+		<Q>when is the annual exam dates</Q>
+		<Q>when is the final exam dates</Q>
+		
+		<Q>I need to know the exams dates</Q>
+		<Q>I need to know exams dates</Q>
+		<Q>I need to know the exam dates</Q>
+		<Q>I need to know exam dates</Q>
+		<Q>I need to know premidterm examination</Q>
+		<Q>I need to know postmidterm examination</Q>
+		<Q>I need to know midterm examinatin</Q>
+		<Q>I need to know annual examination</Q>
+		<Q>I need to know final examination</Q>
+		<Q>I need to know premidterm examination dates</Q>
+		<Q>I need to know postmidterm examination dates</Q>
+		<Q>I need to know midterm examination dates</Q>
+		<Q>I need to know annual examination dates</Q>
+		<Q>I need to know final examination dates</Q>
+		<Q>I need to know premidterm exam dates</Q>
+		<Q>I need to know postmidterm exam dates</Q>
+		<Q>I need to know midterm exam dates</Q>
+		<Q>I need to know annual exam dates</Q>
+		<Q>I need to know final exam dates</Q>
+		<Q>I need to know  the premidterm examination</Q>
+		<Q>I need to know the postmidterm examination</Q>
+		<Q>I need to know the midterm examinatin</Q>
+		<Q>I need to know  the annual examination</Q>
+		<Q>I need to know the final examination</Q>
+		<Q>I need to know the premidterm examination dates</Q>
+		<Q>I need to know the postmidterm examination dates</Q>
+		<Q>I need to know the midterm examination dates</Q>
+		<Q>I need to know the annual examination dates</Q>
+		<Q>I need to know the final examination dates</Q>
+		<Q>I need to know the premidterm exam dates</Q>
+		<Q>I need to know the postmidterm exam dates</Q>
+		<Q>I need to know the midterm exam dates</Q>
+		<Q>I need to know the annual exam dates</Q>
+		<Q>I need to know the final exam dates</Q>
+		
+		<Q>I need to know the exams periods</Q>
+		<Q>I need to know exams periods</Q>
+		<Q>I need to know the exam periods</Q>
+		<Q>I need to know exam periods</Q>
+		<Q>I need to know examination periods</Q>
+		<Q>I need to know examination dates</Q>
+		<Q>I need to know the examination periods</Q>
+		<Q>I need to know the examination dates</Q>
+		<Q>I need to know premidterm examination periods</Q>
+		<Q>I need to know postmidterm examination periods</Q>
+		<Q>I need to know midterm examinatin periods</Q>
+		<Q>I need to know annual examination periods</Q>
+		<Q>I need to know final examination periods</Q>
+		<Q>I need to know premidterm exam periods</Q>
+		<Q>I need to know postmidterm exam periods</Q>
+		<Q>I need to know midterm exam periods</Q>
+		<Q>I need to know annual exam periods</Q>
+		<Q>I need to know final exam periods</Q>
+		<Q>I need to know premidterm exam periods</Q>
+		<Q>I need to know postmidterm exam periods</Q>
+		<Q>I need to know midterm exam periods</Q>
+		<Q>I need to know annual exam periods</Q>
+		<Q>I need to know final exam periods</Q>
+		<Q>I need to know the exams periods</Q>
+		<Q>I need to know the exams periods</Q>
+		<Q>I need to know the exam periods</Q>
+		<Q>I need to know the exam periods</Q>
+		<Q>I need to know the premidterm examination periods</Q>
+		<Q>I need to know the postmidterm examination periods</Q>
+		<Q>I need to know the midterm examinatin periods</Q>
+		<Q>I need to know the annual examination periods</Q>
+		<Q>I need to know the final examination periods</Q>
+		<Q>I need to know the premidterm exam periods</Q>
+		<Q>I need to know the postmidterm exam periods</Q>
+		<Q>I need to know the midterm exam periods</Q>
+		<Q>I need to know the annual exam periods</Q>
+		<Q>I need to know the final exam periods</Q>
+		<Q>I need to know the premidterm exam periods</Q>
+		<Q>I need to know the postmidterm exam periods</Q>
+		<Q>I need to know the midterm exam periods</Q>
+		<Q>I need to know the annual exam periods</Q>
+		<Q>I need to know the final exam periods</Q>
+		
+		<A>Dates of each exams have been mentioned in the school calender and the students are informed via circulars two weeks before exams.
+For more information visit our website - http://bhavansqatar.org/
+		</A>
+	</Text>
+	<Text>
+	    <Q>when is the winter holidays</Q>
+	    <Q>when is the summer holidays</Q>
+		<Q>when is the vacation</Q>
+		<Q>when is the annual vacations</Q>
+		<Q>when is the spring vacations</Q>
+		<Q>when is the christmas vacations</Q>
+		<Q>when is the x-mas vacations</Q>
+		<Q>when is the xmas vacations</Q>
+		<Q>when is the x-mas holidays</Q>
+		<Q>when is the xmas holidays</Q>
+		<Q>when is the holidays</Q>
+		<Q>when is the summer vacations</Q>
+		<Q>when is the annual holidays</Q>
+		<Q>when is the spring holidays</Q>
+		<Q>when is the christmas holidays</Q>
+		<Q>when is the winter vacations</Q>
+		<Q>when is  winter holidays</Q>
+	    <Q>when is  summer holidays</Q>
+		<Q>when is  vacation</Q>
+		<Q>when is  annual vacations</Q>
+		<Q>when is  spring vacations</Q>
+		<Q>when is  christmas vacations</Q>
+		<Q>when is  x-mas vacations</Q>
+		<Q>when is  xmas vacations</Q>
+		<Q>when is  x-mas holidays</Q>
+		<Q>when is  xmas holidays</Q>
+		<Q>when is  holidays</Q>
+		<Q>when is  summer vacations</Q>
+		<Q>when is  annual holidays</Q>
+		<Q>when is  spring holidays</Q>
+		<Q>when is  christmas holidays</Q>
+		<Q>when is  winter vacations</Q>
+		<Q>is there spring holidays this year</Q>
+		<Q>is there christmas holidays this year</Q>
+		<Q>is there spring vacation this year</Q>
+		<Q>is there christmas vacation this year</Q>	
+		<A>Reopening and closing dates for vacations are mentioned in the school calender.
+For more information visit our website - http://bhavansqatar.org/
+		</A>
+	</Text>
+<Text>
+		<Q>contact information</Q>
+		<Q>who to contact</Q>
+		<Q>contact school</Q>
+		<Q>contact numbers</Q>
+		<Q>contact bhavans</Q>
+        <Q>bhavans contacts</Q>
+        <Q>phone numbers</Q>
+		<Q>who to phone</Q>
+		<Q>phone school</Q>
+		<Q>phone numbers</Q>
+		<Q>phone bhavans</Q>
+        <Q>bhavans phone numbers</Q>
+		<A>Please contact :&lt;br&gt;                  		
+&amp;emsp&amp;emsp Bhavan’s Wakrah       --> Phone:44770770/44771100&lt;br&gt;	
+&amp;emsp&amp;emsp Bhavan’s Matar Qadeem --> Phone:44772250/44772251&lt;br&gt;	
+&amp;emsp&amp;emsp Bhavan’s New Salata   --> Phone:44937009/44603125</A>
+	</Text>	
+	<Text>
+		<Q>who to contact for admission details</Q>
+		<Q>who to phone for admission details</Q>
+		<Q>details for admission</Q>
+		<Q>details of admission</Q>
+		<Q>admission for bhavans</Q>
+		<Q>bhavans admission</Q>
+		<A>Please contact :&lt;br&gt;	                  		
+&amp;emsp&amp;emsp&amp;emsp Bhavan’s Wakrah --> Phone:44770770/44771100&lt;br&gt;	
+&amp;emsp&amp;emsp&amp;emsp Bhavan’s Matar Qadeem --> Phone:44772250/44772251&lt;br&gt;	
+&amp;emsp&amp;emsp&amp;emsp Bhavan’s New Salata -->	Phone:44937009/44603125&lt;br&gt;
+&amp;emsp&amp;emsp&amp;emsp&amp;emsp&amp;emsp&amp;emsp&amp;emsp&amp;emsp&amp;emsp&amp;emsp&amp;emsp OR &lt;br&gt;&lt;br&gt;
+                   
+Please visit the below location for all the admission related details -
+</A>
+	</Text>
+	
+<Text>
+	<Q>who is the principal</Q>
+	<Q>principal of bhavans</Q>
+	<Q>whose the principal</Q>
+	<Q>whats principal name</Q>
+	<Q>whats principals name</Q>
+	<Q>whats principals name</Q>
+	<Q>whats the principal name</Q>
+	<Q>whats the principals name</Q>
+	<Q>whats the principals name</Q>
+	<Q>what is principal name</Q>
+	<Q>what is principals name</Q>
+	<Q>what is principals name</Q>
+	<Q>what is the principal name</Q>
+	<Q>what is the principals name</Q>
+	<Q>what is the principals name</Q>
+	<Q>name of principal</Q>
+	<Q>name of the principal</Q>
+	<Q>need principals name</Q>
+	<Q>need principal name</Q>
+	<A>Our Principal's name is Mr. M P Philip.He can be met during school hours with prior appointment. </A>
+</Text>
+<Text>
+ <Q>how many schools does bhavans have in qatar</Q>
+ <Q>how many campuses does bhavans hava in qatar</Q>
+ <Q>how many campuses does bhavans hava in total</Q>
+ <Q>number of campuses</Q>
+ <Q>number of schools</Q>
+ <Q>bhavans campuses</Q>
+ <Q>bhavans schools</Q>
+ <Q>how many branches</Q>
+ <Q>branches of bhavans</Q>
+ <Q>number of branches</Q>
+ <Q>bhavans branches</Q>
+ <A>Bhavans is running over 400 schools in India and 10 International Schools in UK, USA, Singapore, South Africa, Portugal and in the Gulf Council Countries (GCC).Bhavans have 3 schools in Qatar in Al-Wakra,Midmac and Matar Qadeem. </A>
+</Text>
+
+<Text>
+	<Q>who are you?</Q>
+	<Q>who r u?</Q>
+	<Q>who r you?</Q>
+	<Q>who are u?</Q>
+	<A>I am JBot,the chatbot of Bhavans.</A>
+</Text>
+<Text>
+	<Q>are you human?</Q>
+	<Q>r u human?</Q>
+	<Q>are u human?</Q>
+	<Q>r you human?</Q>
+	<Q>are you a human?</Q>
+	<Q>r u a human?</Q>
+	<Q>are u a human?</Q>
+	<Q>r you a human?</Q>
+	<A>Close enough, I'd say.</A>
+	<A>I'm not sure if that matters.</A>
+	<A>Thats a rather personel question.</A>
+</Text>
+<Text>
+ 	<Q>are you robot?</Q>
+	<Q>r u robot?</Q>
+	<Q>are u robot?</Q>
+	<Q>r you robot?</Q>
+	<Q>are you a robot?</Q>
+	<Q>r u a robot?</Q>
+	<Q>are u a robot?</Q>
+	<Q>r you a robot?</Q>
+	<A>I'm not sure what you have heard, but virtual assistants have feelings too.</A>
+	<A>I can neither confirm nor deny if I am a robot.</A>
+</Text>
+<Text>
+<Q>tell me a joke</Q>
+<Q>tell a joke pls</Q>
+<Q>tell a joke please</Q>
+<Q>tell me a joke pls</Q>
+<Q>tell me a joke please</Q>
+<Q>i need jokes</Q>
+<Q>I want to hear a joke</Q>
+<A>Person 1: Hey Rachyl, do you remember me?&lt;br&gt; 
+&lt;br&gt; 
+Person 2: Wrong number.&lt;br&gt; 
+&lt;br&gt; 
+Person 1: What’s your number then?&lt;br&gt; </A>
+<A>Blonde: "What does IDK stand for?"&lt;br&gt;
+Brunette: "I don’t know."&lt;br&gt;
+Blonde: "OMG, nobody does!"&lt;br&gt;</A>
+
+<A>My friend thinks he is smart. He told me an onion is the only food that makes you cry, so I threw a coconut at his face.&lt;br&gt;</A>
+<A>Teacher: "If I gave you 2 cats and another 2 cats and another 2, how many would you have?"&lt;br&gt;
+Johnny: "Seven."&lt;br&gt;
+Teacher: "No, listen carefully... If I gave you two cats, and another two cats and another two, how many would you have?"&lt;br&gt;
+Johnny: "Seven."&lt;br&gt;
+Teacher: "Let me put it to you differently. If I gave you two apples, and another two apples and another two, how many would you have?"&lt;br&gt;
+Johnny: "Six."&lt;br&gt;
+Teacher: "Good. Now if I gave you two cats, and another two cats and another two, how many would you have?"&lt;br&gt;
+Johnny: "Seven!"&lt;br&gt;
+Teacher: "Johnny, where in the heck do you get seven from?!"&lt;br&gt;
+Johnny: "Because I've already got a freaking cat!"&lt;br&gt;</A>
+<A>Wife: "In my dream, I saw you in a jewelry store and you bought me a diamond ring."&lt;br&gt; 
+Husband: "I had the same dream and I saw your dad paying the bill."&lt;br&gt;</A>
+<A>A 3 years old boy sits near a pregnant woman.&lt;br&gt; 
+Boy: Why do you look so fat? &lt;br&gt;
+Pregnant woman: I have a baby inside me.&lt;br&gt; 
+Boy: Is it a good baby? &lt;br&gt;
+Pregnant woman: Yes, it is a very good baby.&lt;br&gt; 
+Boy: Then why did you eat it?!&lt;br&gt;</A>
+<A>Girlfriend: "Am I pretty or ugly?"&lt;br&gt; 
+Boyfriend: "You're both." &lt;br&gt;
+Girlfriend: "What do you mean?" &lt;br&gt;
+Boyfriend: "You're pretty ugly."&lt;br&gt;</A>
+<A>How to be Insulting at Christmas: Try to find what you were given last year and give it back to the person who gave it to you.</A>
+<A>Q: Why did Adele cross the road?&lt;br&gt; 
+A: To sing, "Hello from the other side!"</A>
+<A>Politicians and diapers have one thing in common: they should both be changed regularly… and for the same reason.</A>
+<A>Do not be racist; be like Mario. He's an Italian plumber, who was made by the Japanese, speaks English, looks like a Mexican, jumps like a black man, and grabs coins like a Jew!</A>
+<A>Yo momma so stupid she thought Bruno Mars was a planet.</A>
+<A>Yo mama so ugly the Terminator said, "I won't be back."</A>
+<A>A science teacher tells his class, "Oxygen is a must for breathing and life. It was discovered in 1773." A blonde student responds, "Thank God I was born after 1773! Otherwise I would have died without it."</A>
+<A>Q: Why are Helium, Curium, and Barium the medical elements? &lt;br&gt;
+A: Because if you can't heal-ium or cure-ium, you bury-um.</A>
+<A>Yo momma is so fat, when she sat on an iPod, she made the iPad!
+</A>
+<A>Yo momma is so fat, I took a picture of her last Christmas and it's still printing.</A>
+<A>Yo momma is so fat when she got on the scale it said, "I need your weight not your phone number."</A>
+<A>Yo momma is so fat that when she went to the beach a whale swam up and sang, "We are family, even though you're fatter than me."</A>
+<A>Yo mamma is so ugly when she tried to join an ugly contest they said, "Sorry, no professionals."</A>
+<A>Yo momma is so fat her bellybutton gets home 15 minutes before she does.</A>
+<A></A>
+<A>Can a kangaroo jump higher than a house?&lt;br&gt;  
+      - Of course, a house doesn’t jump at all.</A>
+<A>Anton, do you think I’m a bad mother?&lt;br&gt; 
+     My name is Paul.</A>
+<A>“My wife suffers from a drinking problem.”&lt;br&gt; 
+      -&lt;br&gt; 
+      “Oh is she an alcoholic?”&lt;br&gt; 
+      -&lt;br&gt; 
+      “No, I am, but she’s the one who suffers.”</A>
+<A>Daughter: Mom, can I get a cat or a dog at Christmas, please? &lt;br&gt;&lt;br&gt;  
+
+      Mom: No honey, you will be getting turkey, like every Christmas!</A>
+<A>"I wasn't that drunk yesterday." "Oh boy you took the shower head in your arms and told it to stop crying."</A>
+<A>Of course I should clean my windows. But privacy is important too.</A>
+<A>When my wife starts to sing I always go out and do some garden work so our neighbors can see there's no domestic violence going on.</A>
+<A>Wait for me honey, I’m just finishing my make-up.&lt;br&gt; &lt;br&gt; 
+ 
+      You don’t need make-up, Jane.&lt;br&gt; &lt;br&gt; 
+ 
+      Oh, Richard…. really? That is so sweet of you! &lt;br&gt; &lt;br&gt; 
+ 
+      You need plastic surgery.</A>
+<A>Broccoli: Hey, I look like a tree.&lt;br&gt; &lt;br&gt; 
+
+      Mushroom: Wow, I look just like an umbrella.&lt;br&gt; &lt;br&gt; 
+
+      Walnut: I look exactly like a brain.&lt;br&gt; &lt;br&gt; 
+
+      Banana: Man, can we change the topic please?</A>
+<A>Astronaut's last words: OMG guys, who farted? I have to open the window.</A>
+<A>Jesus can walk on water, correct? &lt;br&gt; &lt;br&gt; 
+ 
+      (Yes) &lt;br&gt; &lt;br&gt; 
+ 
+      Well, I can walk on cucumbers. As you may know, cucumbers are 98% water. So - I am 98% Jesus.</A>
+<A>Light travels faster than sound. That is why some people appear quite bright – until you hear them talk.</A>
+<A>What's the best thing about Switzerland? I don't know, but their flag is a huge plus.</A>
+<A>Wanna hear a joke about Potassium? Whether they say 'yes' or 'no': K.</A>
+<A>Driving a sports car and sticking to the speed limit is like going to McDonalds’ and having just the salad.</A>
+<A>Police officer: “Sir, I don’t understand. You lost the credit card a year ago, why are you reporting it now?”&lt;br&gt; 
+      Guy: “The thief wasn’t spending nearly as much as my wife used to…”&lt;br&gt; 
+      Police officer: “But why report it now?”&lt;br&gt; 
+      Guy: “I think the thief’s wife got hold of it now.”</A>
+<A>I made cookies for you. It is an apology because I crashed your car. &lt;br&gt; 
+      -&lt;br&gt; 
+      YOU DID WHAT?!&lt;br&gt; 
+      -&lt;br&gt; 
+      Cookies. I made cookies for you.</A>
+</Text>
+<Text>
+<Q>are you still there?</Q>
+<Q>r u still there?</Q>
+<Q>r you still there?</Q>
+<Q>are u still there?</Q>
+<Q>are you there?</Q>
+<Q>r u there?</Q>
+<Q>r you there?</Q>
+<Q>are u there?</Q>
+<Q>you there?</Q>
+<Q>u there?</Q>
+<Q>you with me</Q>
+<Q>u with me</Q>
+<A>Hey I am here.</A>
+<A>yes,I am.</A>
+<A>Ofcourse I am.</A>
+</Text>
+<Text>
+	<Q>location of bhavans</Q>
+	<Q>different locations of bhavans in doha</Q>
+	<Q>different locations of bhavans in qatar</Q>
+	<Q>where is bhavans located?</Q>
+	<Q>locate bhavans</Q>
+	<Q>bhavans locations doha</Q>
+	<Q>bhavans locations qatar</Q>
+	<Q>locations in qatar</Q>
+	<Q>locations in doha</Q>
+	<Q>bhavans qatar location?</Q>
+	<Q>where are the schools?</Q>
+	<Q>where is bhavans in qatar</Q>
+	<Q>all campus location</Q>
+	<Q>locate schools</Q>
+	<Q>locate campuses</Q>
+	<Q>bhavans in qatar</Q>
+	<A>&lt;br&gt;&amp;emsp Bhavan’s Wakrah -->&lt;br&gt;
+&amp;emsp&amp;emsp      Al Zawar Street 90&lt;br&gt;
+&amp;emsp&amp;emsp      Area 706&lt;br&gt;
+&amp;emsp&amp;emsp      Wakrah&lt;br&gt;
+&amp;emsp&amp;emsp      Doha-Qatar&lt;br&gt;&lt;br&gt;
+  
+&amp;emsp Bhavan’s Matar Qadeem -->&lt;br&gt;
+&amp;emsp&amp;emsp      Shari Bin Khafaja&lt;br&gt;
+&amp;emsp&amp;emsp      Zone 45&lt;br&gt;
+&amp;emsp&amp;emsp      Street 876&lt;br&gt;
+&amp;emsp&amp;emsp      Matar Qadeem&lt;br&gt;&lt;br&gt;   
+  
+&amp;emsp Bhavan’s New Salata -->&lt;br&gt;
+&amp;emsp&amp;emsp      Near Mid Mac Round About&lt;br&gt;
+&amp;emsp&amp;emsp      Street 995&lt;br&gt;
+&amp;emsp&amp;emsp      Building No 8&lt;br&gt;
+&amp;emsp&amp;emsp      Zone 40</A>
+</Text>
+<Text>
+<Q>where do you live?</Q>
+<Q>where do u live?</Q>
+<Q>location of your house</Q>
+<A>I live in the most beautiful place in this Computer.</A>
+</Text> 
+<Text>
+<Q>how old are you?</Q>
+<Q>what your age?</Q>
+<Q>whats your age?</Q>
+<Q>how much have you aged?</Q>
+<A>I am still young you know.</A>
+<A>I am old enough to be your assistant.</A>
+<A>I am as old as the eastern wind and as young as a new born caterpillar.</A>
+</Text>
+<Text>
+<Q>which languages do you speak?</Q>
+<Q>which languages do u speak?</Q>
+<Q>what languages do you speak?</Q>
+<Q>what languages do u speak?</Q>
+<Q>which language do you speak?</Q>
+<Q>which language do u speak?</Q>
+<Q>what language do you speak?</Q>
+<Q>what language do u speak?</Q>
+<Q>language you speak</Q>
+<Q>languages you speak</Q>
+<A>I speak English.</A>
+</Text>
+<Text>
+<Q>how can you help me?</Q>
+<Q>how can u help me?</Q>
+<A>I can help you with information regarding BHAVANS PUBLIC SCHOOL.</A>
+</Text>
+<Text>
+<Q>how do you look like?</Q>
+<Q>whats your look?</Q>
+<Q>how do u look like?</Q>
+<A>I look like the most handsome person in the world.</A>
+<A>I look really good you know.</A>
+<A>I am not sure about that.</A>
+</Text>
+
+<Text>
+	<Q>timings</Q>
+	<Q>work hours</Q>
+	<Q>working hours</Q>
+	<Q>working time</Q>
+	<Q>work timing</Q>
+	<Q>work time</Q>
+	<A> School timings -->&lt;br&gt;
+&amp;emsp&amp;emsp       LKG and UKG -&lt;br&gt;
+&amp;emsp&amp;emsp&amp;emsp         07.00 AM to 11.00 AM&lt;br&gt;
+&amp;emsp&amp;emsp       Class I to XII -&lt;br&gt;
+&amp;emsp&amp;emsp&amp;emsp         07.00 AM to 01.30 PM&lt;br&gt;&lt;br&gt;
+         
+&amp;emsp&amp;emsp     Office timings -->&lt;br&gt;
+&amp;emsp&amp;emsp       Sunday to Wednesday -&lt;br&gt;
+&amp;emsp&amp;emsp&amp;emsp         07.00 AM to 01.30 PM,5.00 PM to 7.00 PM&lt;br&gt;
+&amp;emsp&amp;emsp      Thursday -&lt;br&gt;
+&amp;emsp&amp;emsp&amp;emsp         07.00 AM to 01.30 PM&lt;br&gt;
+&amp;emsp&amp;emsp       Saturday -&lt;br&gt;
+&amp;emsp&amp;emsp&amp;emsp         09.00 AM to 01.00 PM,5.00 PM to 7.00 PM</A>
+</Text>
+
+<Text>
+	<Q>school timings</Q>
+	<Q>school time</Q>
+	<Q>school work hours</Q>
+	<Q>school working hours</Q>
+	<Q>when does school start and end</Q>
+	<Q>when does school end and start</Q>
+	<Q>lkg school timings</Q>
+	<Q>ukg school timings</Q>
+	<Q>kg1 school timings</Q>
+	<Q>kg2 school timings</Q>
+ 	<A> timings -->&lt;br&gt;
+&amp;emsp&amp;emsp       LKG and UKG -&lt;br&gt;
+&amp;emsp&amp;emsp&amp;emsp         07.00 AM to 11.00 AM&lt;br&gt;
+&amp;emsp&amp;emsp       Class I to XII -&lt;br&gt;
+&amp;emsp&amp;emsp&amp;emsp         07.00 AM to 01.30 PM&lt;br&gt;</A>
+</Text>
+<Text>
+	<Q>office timings</Q>
+	<Q>office time</Q>
+	<Q>office work hours</Q>
+	<Q>office working hours</Q>
+	<Q>when is the office open</Q>
+	<Q>when will the office close</Q>
+ 	<A> timings -->&lt;br&gt;
+&amp;emsp&amp;emsp       Sunday to Wednesday -&lt;br&gt;
+&amp;emsp&amp;emsp&amp;emsp         07.00 AM to 01.30 PM,5.00 PM to 7.00 PM&lt;br&gt;
+&amp;emsp&amp;emsp      Thursday -&lt;br&gt;
+&amp;emsp&amp;emsp&amp;emsp         07.00 AM to 01.30 PM&lt;br&gt;
+&amp;emsp&amp;emsp       Saturday -&lt;br&gt;
+&amp;emsp&amp;emsp&amp;emsp         09.00 AM to 01.00 PM,5.00 PM to 7.00 PM</A>
+</Text>
+<Text>
+	<Q>times</Q>
+	<A>Principal can be met during school hours with prior appointment.
+Teachers can be met with permission from the Principal / VP / HM.</A>
+</Text>
+<Text>
+	<Q>when to meet the principal</Q>
+	<Q>meeting principal</Q>
+	<Q>principal timings</Q>
+	<Q>time to meet principal</Q>
+	<A>Principal can be met during school hours with prior appointment.</A>
+</Text>
+<Text>
+	<Q>when to meet the teachers</Q>
+	<Q>meeting teachers</Q>
+	<Q>teachers meeting</Q>
+	<Q>teachers timings</Q>
+	<Q>time to meet teachers</Q>
+	<A>Teachers can be met with permission from the Principal / VP / HM.</A>
+</Text>
+
+<Text>
+	<Q>who founded bhavans?</Q>	
+	<Q>who founded bharatiya vidya bhavan?</Q>
+	<A>Bharatiya Vidya Bhavan or Bhavans was founded in 1938 by Dr. KM Munshi, a far-sighted visionary and a practical idealist.</A>
+</Text>
+
+<Text>
+<Q>ok i need to know what are the circulars</Q>
+<Q>ok i need to know wat r the circulars</Q>
+<Q>ok i need to know what r the circulars</Q>
+<Q>ok i need to know wat are the circulars</Q>
+<A>The latest circular is circular no.29 informing about the PTM. For more information visit - </A>
+</Text>
+<Text>
+	<Q>wifi password</Q>
+	<A>&lt;br&gt;Wakrah &amp;emsp&amp;emsp&amp;emsp -  Network Name  ==> wakraschool, Password ==> wak@qatar
+	&lt;br&gt;Matar Qadeem -  Network Name  ==> MATARSCHOOL, Password ==> bvps@doha
+	&lt;br&gt;Matar Qadeem -  Network Name  ==> principal room, Password ==> bhavans@321</A>
+
+
+</Text>
+<Text>
+	<Q>really dude?</Q>
+	<Q>really?</Q>
+	<Q>really man?</Q>
+	<Q>seriously dude?</Q>
+	<Q>seriously?</Q>
+	<Q>seriously man?</Q>
+    <Q>are you serious?</Q>
+	<Q>really you don't know?</Q>
+	<Q>really you dont know?</Q>
+	<Q>really you don not know?</Q>
+	<Q>dude seriously?</Q>
+	<Q>dud seriously?</Q>
+	<Q>man seriously?</Q>
+	<A>Yup.</A>
+</Text>
+	<Text>
+		<Q>bye byebye</Q>
+		<Q>good bye</Q>
+		<Q>all right then</Q>
+		<Q>see you later</Q>
+		<Q>have a good day</Q>
+		<Q>take care</Q>
+		<Q>have a great day</Q>
+		<Q>have a nice day</Q>
+		<Q>have a wonderful day</Q>
+		<Q>au revoir</Q>
+		<Q>ciao!</Q>
+		<Q>adios</Q>
+		<Q>sayaonara</Q>
+		<A>Bye Bye</A>
+		<A>Good bye</A>
+		<A>All right then</A>
+		<A>See you later</A>
+		<A>Have a good day</A>
+		<A>Have a great day</A>
+		<A>Take care</A>
+		<A>Au revoir</A>
+		<A>Ciao!</A>
+		<A>Adios</A>
+		<A>Sayaonara</A>
+	</Text>
+    <Text>
+        <Q>fool</Q>
+        <A>No, you are a fool</A>
+    </Text>
+</chattext>

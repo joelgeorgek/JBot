@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/parent_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#212121"
+
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#444444">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="JBot"
+            android:textColor="#ffffff"
+            android:textSize="30sp"/>
+
+        <ImageButton
+            android:layout_marginLeft="260dp"
+            android:id="@+id/talk_action_button"
+            android:layout_width="42dp"
+            android:layout_height="60dp"
+            android:layout_alignBottom="@+id/editText1"
+            android:layout_alignTop="@+id/editText1"
+            android:layout_toLeftOf="@+id/send_button"
+            android:background="#444444"
+            android:onClick="onClickToggleTalk"
+
+            android:src="@drawable/enable_talk"/>
+
+    </android.support.v7.widget.Toolbar>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/my_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="440dp">
+    </android.support.v7.widget.RecyclerView>
+
+    <RelativeLayout
+        android:id="@+id/my_linear_layout"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/rounded_edittext"
+            android:hint="Type here"
+            android:paddingLeft="10dp"
+            android:singleLine="true"
+            android:textColor="#000000" />
+
+
+        <ImageButton
+            android:id="@+id/voice_button"
+            android:layout_width="42dp"
+            android:layout_height="60dp"
+            android:layout_alignBottom="@+id/editText1"
+            android:layout_alignTop="@+id/editText1"
+            android:layout_toLeftOf="@+id/send_button"
+            android:backgroundTint="#ffffff"
+            android:onClick="onClickRecord"
+
+            android:src="@drawable/ic_keyboard_voice_black_24dp" />
+
+        <ImageButton
+            android:id="@+id/send_button"
+            android:layout_width="42dp"
+            android:layout_height="60dp"
+            android:layout_alignBottom="@+id/editText1"
+            android:layout_alignRight="@+id/editText1"
+            android:layout_alignTop="@+id/editText1"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="#ffffff"
+            android:onClick="onClickSend"
+
+            android:src="@drawable/ic_send_black_24dp" />
+
+
+    </RelativeLayout>
+</LinearLayout>
